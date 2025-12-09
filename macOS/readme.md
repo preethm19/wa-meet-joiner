@@ -21,7 +21,7 @@ A Python automation script designed to streamline the process of joining Google 
 1. **Clone the repository**:
    ```
    git clone https://github.com/preethm19/wa-meet-joiner.git
-   cd wa-meet-joiner
+   cd wa-meet-joiner/macOS
    ```
 
 2. **Install requirements**:

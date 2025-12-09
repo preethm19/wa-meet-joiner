@@ -26,7 +26,7 @@ This complements the script — use the extension for advanced Meet controls whi
 1. **Clone the repository**:
    ```
    git clone https://github.com/preethm19/wa-meet-joiner.git
-   cd wa-meet-joiner
+   cd wa-meet-joiner/windows
    ```
 
 2. **Install requirements**:
