@@ -5,7 +5,7 @@ const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const TARGET_GROUP_NAME = "MITM CSE (AI) 2024-28 AUTONOMOUS-3rd Semester";                    // ← Change this to your group name
+const TARGET_GROUP_NAME = "";                    // ← Change this to your group name
 const PYTHON_JOINER = path.join(__dirname, "join_meet.py");
 const LAST_LINK_FILE = path.join(__dirname, "last_link.txt");
 

@@ -5,7 +5,7 @@ const { execFile } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const TARGET_GROUP_NAME = "Hamam";  // Change to your group name
+const TARGET_GROUP_NAME = "";  // Change to your group name
 const PYTHON_JOINER = path.join(__dirname, "join_meet.py");
 const LAST_LINK_FILE = path.join(__dirname, "last_link.txt");
 
